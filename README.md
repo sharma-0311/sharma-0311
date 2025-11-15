@@ -1,12 +1,13 @@
 # Raghav Gaur
 
 - BCA-AI Student @ Invertis University |  Data Scientist & ML Engg. 
-  Bareilly, India | 🌐 [LinkedIn](https://www.linkedin.com/in/raghav--gaur) |  rgour6350@gmail.com  
-   [GitHub Portfolio](https://github.com/sharma-0311) 
+  Bareilly, India
+  [LinkedIn](https://www.linkedin.com/in/raghav--gaur) |  rgour6350@gmail.com  
+  [GitHub Portfolio](https://github.com/sharma-0311) 
 
 ---
 
-## 💡 Who Am I?
+##  Who Am I?
 
 I'm a highly motivated Computer Science student specialized in **Artificial Intelligence** with a strong passion for solving real-world problems using **Data Science**, **Machine Learning**, and **Python**.
 
@@ -31,7 +32,7 @@ A passionate Data Scientist and AI/ML Developer, focused on building practical, 
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 -  Google Data Analytics Professional Certificate – Coursera  
 -  Accenture Data Visualization Virtual Internship  
@@ -47,7 +48,7 @@ GitHub Stats
 
 ## 🤝 Let’s Connect!
 
-📩 If you’re a **recruiter**, **mentor**, or **project collaborator** — I’d love to hear from you.  
+ If you’re a **recruiter**, **mentor**, or **project collaborator** — I’d love to hear from you.  
 Let’s talk about FinTech, real-world ML, data-driven decision making, or just how to make credit scoring a little smarter and spicier 🌶️.
 
 > “I build data-driven solutions that don’t just predict — they explain.”
