@@ -1,6 +1,6 @@
-# 👋 Hey there, I’m Raghav Gaur!
+# Raghav Gaur
 
-- BCA-AI Student @ Invertis University |  Data Science & ML Enthusiast  
+- BCA-AI Student @ Invertis University |  Data Scientist & ML Engg. 
   Bareilly, India | 🌐 [LinkedIn](https://www.linkedin.com/in/raghav--gaur) |  rgour6350@gmail.com  
    [GitHub Portfolio](https://github.com/sharma-0311) 
 
@@ -12,23 +12,14 @@ I'm a highly motivated Computer Science student specialized in **Artificial Inte
 
 With hands-on internship experience in both **Celebal Technologies** and **Cognifyz Technologies**, I’ve worked on projects involving **ETL pipelines**, **Model deployment**, **Fintech Problem**, **customer segmentation**, **business analytics**, and **model interpretability**.
 
----
-
-## 🚀 Projects That Speak for Me
-
-### 💳 [CreditWiseAI](https://github.com/sharma-0311/CreditWiseAI)
-> AI-powered credit scoring system for financial institutions built with Streamlit, Random Forest, SHAP, and real-world cost functions.  
-> 🟢 Custom UI | 📉 FP-weighted logic | 📊 90%+ precision | 🧠 SHAP explainability
-
-###  [Autism Prediction System](https://github.com/sharma-0311/Autism_Prediction-using-Machine_Learning)
-> Predicts autism risk using behavioral and demographic features with Random Forest + XGBoost.  
-> 🔍 Feature engineering | 📈 95%+ accuracy | 🏥 Early detection support tools
-
-###  [E-Commerce Data Analysis](https://github.com/sharma-0311/E-commerce_Data_Analysis)
-> Explored customer trends & KPIs using SQL, Python, and Power BI.  
-> 🧹 Data wrangling | 📊 Dashboarding | 📦 Inventory insights
+A passionate Data Scientist and AI/ML Developer, focused on building practical, production-ready machine learning systems.
+-** Currently working on:** ColorWave (SAR Image Colorization), RAG-based Chatbots, ML Deployment
+- **Currently learning:** Deep Learning (GANs, Attention), Cloud (AWS/GCP), MLOps
+- **Reach me at:** rgour6350@gmail.com
+- **Fun Fact:** I treat debugging like solving mysteries—every bug has a story.
 
 ---
+
 
 ## 🔧 Skills & Tools
 
@@ -46,6 +37,11 @@ With hands-on internship experience in both **Celebal Technologies** and **Cogni
 -  Accenture Data Visualization Virtual Internship  
 -  Deloitte Data Analytics Simulation – Forage  
 -  SQL (Advanced) – HackerRank
+
+---
+
+GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sharma-0311&show_icons=true&theme=default" height="150px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharma-0311&layout=compact&theme=default" height="150px"/> </p>
 
 ---
 
