@@ -31,13 +31,6 @@ A passionate Data Scientist and AI/ML Developer, focused on building practical, 
 ![](https://nirzak-streak-stats.vercel.app/?user=Sharma-0311&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharma-0311&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sharma-0311&theme=gotham&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sharma-0311&limit=5&theme=react&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Sharma-0311&icon=0&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
