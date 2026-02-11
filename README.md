@@ -3,7 +3,8 @@
 - BCA-AI Student @ Invertis University |  Data Scientist & ML Engg. 
   Bareilly, India
   [LinkedIn](https://www.linkedin.com/in/raghav--gaur) |  rgour6350@gmail.com  
-  [GitHub Portfolio](https://github.com/sharma-0311) 
+  [GitHub Portfolio](https://github.com/sharma-0311)
+  [Portfolio](https://raghavgaurportfolio.vercel.app/)
 
 ---
 
