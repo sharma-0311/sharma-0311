@@ -26,11 +26,11 @@ I enjoy transforming complex data into production-ready AI applications using Py
 
 ## Currently Learning
 
-Advanced Deep Learning (GANs, Attention Mechanisms, Diffusion Models)
-MLOps & Model Deployment
-Cloud Computing (AWS & GCP)
-Distributed Data Engineering with PySpark
-Agentic AI & Multi-Agent Systems
+- Advanced Deep Learning (GANs, Attention Mechanisms, Diffusion Models)
+- MLOps & Model Deployment
+- Cloud Computing (AWS & GCP)
+- Distributed Data Engineering with PySpark
+- Agentic AI & Multi-Agent Systems
 
 ## Core Technologies
 
@@ -49,14 +49,13 @@ Agentic AI & Multi-Agent Systems
 **Visualization**: Power BI, Tableau, Matplotlib
 
 ## Areas of Interest
-Artificial Intelligence
-Machine Learning
-Computer Vision
-Generative AI
-Data Engineering
-MLOps
-NLP & LLM Applications
-Business Analytics
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Generative AI
+- Data Engineering
+- MLOps
+- NLP & LLM Applications
 
 
 ⚡ **Fun Fact**
