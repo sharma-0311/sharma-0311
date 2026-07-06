@@ -16,12 +16,13 @@ Currently, I work as a Data Scientist at Cretum Advisory (MyGST Refund), where I
 
 I enjoy transforming complex data into production-ready AI applications using Python, SQL, PyTorch, TensorFlow, FastAPI, Flask, AWS, and modern LLM technologies. My interests span from classical machine learning to deep learning, RAG systems, MLOps, and scalable AI architectures.
 
-## What I'm Currently Building
--🌈 **ColorWave**: Deep Learning-based SAR Image Colorization using UNet + GAN
--🤖 AI-powered Litigation & GST Automation Platform
--📄 Intelligent OCR & Document Processing Pipelines
--💬 RAG-based Enterprise Chatbots using LLMs
--📊 Production-ready Machine Learning & Data Science Applications
+## 🚀 What I'm Currently Building
+
+- 🌈 **ColorWave** — Deep Learning-based SAR Image Colorization using **UNet + GAN**
+- 🤖 **AI-powered Litigation Management & GST Automation**
+- 📄 **Intelligent OCR, Document Processing & AI Data Pipelines**
+- 💬 **Enterprise RAG Chatbots** powered by Large Language Models (LLMs)
+- 📊 **Scalable Machine Learning & Data Science Solutions** for real-world business applications
 
 ## Currently Learning
 
