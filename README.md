@@ -1,7 +1,7 @@
 # Raghav Gaur
 
-- BCA-AI Student @ Invertis University |  Data Scientist & ML Engg. 
-  Bareilly, India
+- MCA-AI Student @ Manipal University |  Data Scientist & ML Engg. 
+  Noida, India
   [LinkedIn](https://www.linkedin.com/in/raghav--gaur) |  rgour6350@gmail.com  
   [GitHub Portfolio](https://github.com/sharma-0311) |  
   [Portfolio](https://raghavgaurportfolio.vercel.app/)
@@ -10,15 +10,57 @@
 
 ##  Who Am I?
 
-I'm a highly motivated Computer Science student specialized in **Artificial Intelligence** with a strong passion for solving real-world problems using **Data Science**, **Machine Learning**, and **Python**.
+I'm Raghav Gaur, an AI & Data Scientist passionate about building intelligent systems that solve real-world business problems through Machine Learning, Generative AI, Computer Vision, and Data Engineering.
 
-With hands-on internship experience in both **Celebal Technologies** and **Cognifyz Technologies**, I’ve worked on projects involving **ETL pipelines**, **Model deployment**, **Fintech Problem**, **customer segmentation**, **business analytics**, and **model interpretability**.
+Currently, I work as a Data Scientist at Cretum Advisory (MyGST Refund), where I develop AI-driven automation solutions for litigation management, GST validation, OCR pipelines, intelligent document processing, and compliance analytics. Previously, I worked as a Junior Data Scientist at Academy Xcel Solution, building machine learning models, explainable AI dashboards, and business intelligence solutions.
 
-A passionate Data Scientist and AI/ML Developer, focused on building practical, production-ready machine learning systems.
--** Currently working on:** ColorWave (SAR Image Colorization), RAG-based Chatbots, ML Deployment
-- **Currently learning:** Deep Learning (GANs, Attention), Cloud (AWS/GCP), MLOps
-- **Reach me at:** rgour6350@gmail.com
-- **Fun Fact:** I treat debugging like solving mysteries—every bug has a story.
+I enjoy transforming complex data into production-ready AI applications using Python, SQL, PyTorch, TensorFlow, FastAPI, Flask, AWS, and modern LLM technologies. My interests span from classical machine learning to deep learning, RAG systems, MLOps, and scalable AI architectures.
+
+## What I'm Currently Building
+🌈 **ColorWave**: Deep Learning-based SAR Image Colorization using UNet + GAN
+🤖 AI-powered Litigation & GST Automation Platform
+📄 Intelligent OCR & Document Processing Pipelines
+💬 RAG-based Enterprise Chatbots using LLMs
+📊 Production-ready Machine Learning & Data Science Applications
+
+## Currently Learning
+
+Advanced Deep Learning (GANs, Attention Mechanisms, Diffusion Models)
+MLOps & Model Deployment
+Cloud Computing (AWS & GCP)
+Distributed Data Engineering with PySpark
+Agentic AI & Multi-Agent Systems
+
+## Core Technologies
+
+**Languages**: Python, SQL
+
+**Machine Learning**: Scikit-learn, TensorFlow, PyTorch, Transformers
+
+**Generative AI**: LangChain, RAG, Prompt Engineering, Vector Databases
+
+**Backend**: Flask, FastAPI, REST APIs
+
+**Data**: Pandas, NumPy, PySpark, MySQL
+
+**Cloud & DevOps**: AWS, Docker, Git
+
+**Visualization**: Power BI, Tableau, Matplotlib
+
+## Areas of Interest
+Artificial Intelligence
+Machine Learning
+Computer Vision
+Generative AI
+Data Engineering
+MLOps
+NLP & LLM Applications
+Business Analytics
+
+
+⚡ **Fun Fact**
+
+I enjoy treating debugging like detective work. Every error message is a clue, every log is evidence, and every successful fix feels like closing another fascinating case. 🕵️‍♂️💻
 
 ---
 
